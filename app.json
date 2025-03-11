@@ -1,7 +1,7 @@
 
 {
   "name":"BWM-XMD",
-  "description":"Best whatsapp bot developed by Ibrahim adams",
+  "description":"Best whatsapp bot developed by PaThAn BoY",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/h2ydge.jpg",
   "repository":"https://github.com/ekitale/maths-project",
@@ -11,7 +11,7 @@
     "PREFIX":
     {
       "description":"choose your prefix for your bot",
-      "value":".",
+      "value":"panda",
       "required":true
     },
 "AUTO_REACT":
@@ -121,7 +121,7 @@
     "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
   },
     "SESSION_ID":{
-    "description":"put your session ID , the code you received from from ibrahim adams site",   
+    "description":"put your session ID , the code you received from from PaThAn BoY site",   
       "value":"",
      "required":true
   },
